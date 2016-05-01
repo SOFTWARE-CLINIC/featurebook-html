@@ -1,0 +1,33 @@
+{
+  "name": "featurebook-html",
+  "version": "1.0.0-alpha.1",
+  "description": "FeatureBook's HTML converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": {
+    "name": "Daniel Pacak",
+    "email": "pacak.daniel@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SOFTWARE-CLINIC/featurebook-html.git"
+  },
+  "engines": {
+    "node": ">= 0.10.x"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bash-color": "0.0.3",
+    "featurebook-api": "git+https://github.com/SOFTWARE-CLINIC/featurebook-api.git",
+    "featurebook-markdown": "git+https://github.com/SOFTWARE-CLINIC/featurebook-markdown.git",
+    "fs-extra": "0.28.0",
+    "jade": "1.11.0",
+    "lodash": "4.11.1"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.4.5"
+  }
+}
