@@ -25,17 +25,17 @@
   },
   "license": "MIT",
   "dependencies": {
-    "bash-color": "0.0.4",
-    "featurebook-api": "1.0.0-alpha.4",
-    "featurebook-markdown": "1.0.0-alpha.1",
-    "fs-extra": "0.30.0",
-    "jade": "1.11.0",
-    "lodash": "4.17.4"
+    "bash-color": "^0.0.4",
+    "featurebook-api": "^1.0.0-alpha.5",
+    "featurebook-markdown": "^1.0.0-alpha.1",
+    "fs-extra": "^8.1.0",
+    "pug": "^2.0.4",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
-    "chai": "3.5.0",
-    "codeclimate-test-reporter": "0.4.1",
-    "istanbul": "0.4.5",
-    "mocha": "3.2.0"
+    "chai": "^4.2.0",
+    "codeclimate-test-reporter": "^0.5.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^6.2.0"
   }
 }
